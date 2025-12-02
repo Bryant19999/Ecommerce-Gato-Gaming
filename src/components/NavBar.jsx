@@ -18,7 +18,7 @@ const NavBar = () => {
             Placas de video
           </a>
           <a href="#" className="hover:text-emerald-400 transition-colors">
-            Teclados
+            Teclados 
           </a>
           <a href="#" className="hover:text-emerald-400 transition-colors">
             Mouses
